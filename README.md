@@ -2,6 +2,10 @@
 
 <!---https://raw.githubusercontent.com/alexZajac/react-native-skeleton-content/master/demos/main.gif-->
 
+### WARNING !
+
+> This package is a fork of alexZajac's library to resolve incompatibility issues with Expo SDK 44. Before installing check if this issue has been resolved in the official repository.
+
 > If you are not using expo, please head up to [this page](https://github.com/alexZajac/react-native-skeleton-content-nonexpo) instead.
 
 <img width="220px" align="right" src="https://raw.githubusercontent.com/alexZajac/react-native-skeleton-content/master/demos/main.gif" />
